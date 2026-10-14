@@ -293,7 +293,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             title: "Boy With Luv",
             artist: "BTS (Feat. Halsey)",
-            src: "audio/Boy With Luv.mp3", // Reemplaza con tu archivo o enlace local/remoto
+            src: "audio/Boy-With-Luv.mp3", // Reemplaza con tu archivo o enlace local/remoto
             cover: "https://images.unsplash.com/photo-1518621736915-f3b1c41bfd00?auto=format&fit=crop&w=300&q=80"
         },
         {
